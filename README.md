@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoshuaTapp, A CS student in UVA's Engineering School in Charlottesville, VA.
-- 👀 I’m interested in a bit of everything right now. I have really enjoyed my exposure to abstract algebra, number theory, encryption, algorithm analysis, etc. However, this is probably due to being so heavy on Maths during my current schooling. Besides Maths, I am starting to dive deep into Data structures, compilers, databases, and cybersecurity. Taking every class I can!
-- 🌱 I’m Learning Python, C++, javascript/typescript, react, among others. So much to do.
-- 💞️ I’m looking to collaborate on any project that would be appropriate for a CS student. Currently planning on making visual representations of all the subjects I find especially hard/useful in my education.
+- 👀 I’m interested in a bit of everything right now. My current focus is on Learning AWS, Working on a novel ML classification problem (planning to publish), and building a web app for university students. 
+- 🌱 I’m Learning Python (sklearn), C++, javascript/typescript, react, among others. So much to do.
 - 📫 How to reach me: jct7bm@virginia.edu
 
